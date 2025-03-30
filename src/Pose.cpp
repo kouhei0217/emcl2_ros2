@@ -5,6 +5,7 @@
 
 #include <cmath>
 #include <sstream>
+#include <cstdint> 
 
 namespace emcl2
 {
